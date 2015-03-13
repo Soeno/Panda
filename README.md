@@ -1,9 +1,5 @@
 # Panda
 
 ###
----
-* Hajime
-* Panji
-* Panzo
-* Sekiguchi
-
+* Panda
+* Malayan tapir
